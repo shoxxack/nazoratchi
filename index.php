@@ -245,7 +245,7 @@ if($data=="stat"){
 <b>Addpm</b> - Guruh a‘zosini guruhga admin qiladi;
 <b>Delpm</b> - Adminlikdan oladi.
 
-- Bot guruh yangi a‘zolari bilan salomlashadi.Guruh a‘zosi guruhga reklama <b>ssilkalarini</b> tashlasa yoki <b>haqoratli</b> so‘z yozsa,bot xabarni o‘chirib foydalanuvchiga cheklov beradi.\n\n<b>Yaratuvchi🛠:</b>  <a href='tg://user?id=833249908'>Lazik0</a>",
+- Bot guruh yangi a‘zolari bilan salomlashadi.Guruh a‘zosi guruhga reklama <b>ssilkalarini</b> tashlasa yoki <b>haqoratli</b> so‘z yozsa,bot xabarni o‘chirib foydalanuvchiga cheklov beradi.\n\n<b>Yaratuvchi🛠:</b>  <a href='tg://user?id=1232898350'>Uzb_Coderchik</a>",
 'parse_mode' => 'html',
 'disable_web_page_preview'=>true,
 'reply_markup'=>json_encode(
