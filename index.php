@@ -163,6 +163,8 @@ $sta = bot('sendMessage',[
 'chat_id'=>$chat_id,
 'text'=> "<b>Salom</b>👋
 Man <b>arablani, reklamalani, ssilkalani</b> guruhlarda o'chirib beraman👨🏻‍✈ 
+Dasturchi @Uzb_Coderchik
+Kanalimiz @Hacker_Bey
 
 Man ishlashim uchun <b>guruhizga</b> qo'shib <b>admin</b> berishiz kerak😄\n\n📡Userim: @Nazoratchi_Sbot",
 'parse_mode' => 'html',
